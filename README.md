@@ -26,7 +26,7 @@ Python Basics
  * Using `and` and `or`
  * if statements: `if`, `elif`, `else`
 
-Discussion: formatting and style. Snake case. The importance of indendation and
+Discussion: formatting and style. Snake case. The importance of indentation and
 how it's different from other languages. PEP 8. A Foolish Consistency is the
 Hobgoblin of Little Minds.
 
