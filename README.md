@@ -6,10 +6,12 @@ Syllabus
 ## Introduction
 
 A little command line
- * the terminal
+ * the terminal: opening it and reading it
  * how spaces are used to separate arguments
  * change directories: `cd`
+ * list directory contents: `ls`
  * directory shortcuts: `~`, `.` and `..`
+ * where am I? print working directory: `pwd`
  * make and remove files: `touch` and `rm`
  * make and remove directories: `mkdir` and `rmdir`
  * running python: interactive mode (REPL) vs. executing a .py file
