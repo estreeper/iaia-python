@@ -46,13 +46,15 @@ Recap and stuff we missed
  * the DRY principle
  * making things more robust
 
-A little more Python
+More Python
  * functions: `def` keyword, positional arguments, keyword arguments, `return`
  * data structures: lists, tuples
  * looping: `for` with lists and `range`
  * list operations: list indexes, `len`, `append`, `pop`
  * using the `import` statement
  * using `random` with `randint` and `choice`
+
+### Thursday, November 1st 2018
 
 ## Getting started with packages: Pillow
 
@@ -61,14 +63,18 @@ Package managers and virtual environments
  * first package: pip, the better package manager
  * second package: virtualenv
  * using virtual environments to isolate projects
+ * activating the virtual environment with `source venv/bin/activate`
+ * deactivating with `deactivate`
  * our first fun package: Pillow for image manipulation
 
 Playing with images in programs
  * the `import` statement
+ * `from [package] import [class or function]`
  * the `Image` class
  * the `dir` function
  * getting the image with `Image.open`
  * saving an image to a new format with `Image.save`
- * pasting images with `paste`
- * using `crop` to get a rectangle
- * using `transpose`
+ * getting image size with `Image.size`
+ * resizing with `Image.resize`
+ * messing with pixels
+ * `getpixel` and `putpixel`
